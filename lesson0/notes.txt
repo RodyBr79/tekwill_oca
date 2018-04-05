@@ -1,0 +1,9 @@
+StudentContacs in GoogleDocs
+Slack setup
+GitHub Repo
+GitBash
+Folder structure
+Docs shareing
+First push
+JDK
+
