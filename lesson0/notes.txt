@@ -7,3 +7,21 @@ Docs shareing
 First push
 JDK
 
+Rodica@Rodica-PC MINGW64 /d/projects/tekwill/src/tekwill_oca (master)
+$ git commit -am "primul commit"
+[master (root-commit) 4ef0bf1] primul commit
+ 1 file changed, 9 insertions(+)
+ create mode 100644 lesson0/notes.txt
+
+Rodica@Rodica-PC MINGW64 /d/projects/tekwill/src/tekwill_oca (master)
+$ git push origin master
+Username for 'https://github.com': RodyBr79
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 350 bytes | 175.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/RodyBr79/tekwill_oca.git
+ * [new branch]      master -> master
+
+Rodica@Rodica-PC MINGW64 /d/projects/tekwill/src/tekwill_oca (master)
